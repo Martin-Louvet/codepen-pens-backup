@@ -1,0 +1,11 @@
+{
+  "head": "",
+  "htmlClasses": "",
+  "scripts": [
+    "/script.js"
+  ],
+  "styles": [
+    "https://public.codepenassets.com/css/reset-2.0.min.css",
+    "/style.css"
+  ]
+}

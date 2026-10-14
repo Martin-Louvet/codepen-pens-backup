@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    ["@babel/plugin-proposal-decorators", {"version": "2023-11", "decoratorsBeforeExport": true}],
+    "@babel/plugin-syntax-jsx",
+    "@babel/plugin-transform-react-display-name",
+    "@babel/plugin-transform-react-jsx"
+  ],
+  "babelrc": false,
+  "compact": false,
+  "configFile": false,
+  "envName": "development",
+  "highlightCode": false,
+  "retainLines": true,
+  "sourceType": "unambiguous"
+}
