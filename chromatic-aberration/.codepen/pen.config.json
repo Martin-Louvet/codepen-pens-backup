@@ -30,18 +30,6 @@
       "name": "postcss-8",
       "version": "latest"
     },
-    "pug-legacy-2": {
-      "createdAt": "2026-10-11T21:22:58.526500581Z",
-      "disabled": false,
-      "name": "pug-legacy-2",
-      "version": "latest"
-    },
-    "sass-legacy-1": {
-      "createdAt": "2026-10-11T21:22:58.526500581Z",
-      "disabled": false,
-      "name": "sass-legacy-1",
-      "version": "latest"
-    },
     "validate-1": {
       "createdAt": "2026-10-11T21:22:58.526500581Z",
       "disabled": false,
